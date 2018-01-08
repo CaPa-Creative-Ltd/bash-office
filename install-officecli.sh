@@ -10,6 +10,3 @@ echo 'export PATH="$HOME/.npm-global/bin:$PATH"' >> ~/.bashrc
 
 # Get NPM package
 npm i -g @pnp/office365-cli
-
-# Run the office 365 cli
-office365
